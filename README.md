@@ -119,7 +119,15 @@ The application will be available at http://localhost:8000 by default.
 
 ## Screenshots
 
-Screenshots will be added soon. You can update this section with dashboard and module screenshots once the application is running locally.
+Berikut beberapa tampilan visual dari aplikasi:
+
+<div align="center">
+<img src="public/assets/image/Laravel.png" alt="Tampilan aplikasi 1" width="700" />
+  <br /><br />
+  <img src="public/assets/image/Laravel%20(1).png" alt="Tampilan aplikasi 1" width="700" />
+  <br /><br />
+  <img src="public/assets/image/Laravel%20(2).png" alt="Tampilan aplikasi 2" width="700" />
+</div>
 
 ## Demo Account
 
